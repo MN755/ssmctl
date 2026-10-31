@@ -10,7 +10,7 @@ no bastion, no open ports, no SSH keys.</p>
 <br>
 
 [![CI](https://github.com/rhysmcneill/ssmctl/actions/workflows/ci.yml/badge.svg)](https://github.com/rhysmcneill/ssmctl/actions/workflows/ci.yml)
-[![Go](https://img.shields.io/badge/Go-1.26+-00ADD8?logo=go)](https://golang.org)
+[![Go](https://img.shields.io/badge/Go-1.26.10+-00ADD8?logo=go)](https://golang.org)
 [![Version](https://img.shields.io/github/v/tag/rhysmcneill/ssmctl)](https://github.com/rhysmcneill/ssmctl/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/rhysmcneill/ssmctl?style=flat&color=yellow&logo=github)](https://github.com/rhysmcneill/ssmctl)
