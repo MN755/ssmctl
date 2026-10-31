@@ -76,7 +76,7 @@ sha256sum --check --ignore-missing checksums.txt
 
 ### Build from source
 
-Requires Go 1.26+.
+Requires Go 1.26.10 or a newer supported Go release with its latest security patches.
 
 ```bash
 git clone https://github.com/rhysmcneill/ssmctl.git
