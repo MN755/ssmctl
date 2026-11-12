@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.2](https://github.com/MN755/ssmctl/compare/v2.0.1...v2.0.2) (2026-11-12)
+
+
+### Bug Fixes
+
+* **security:** require patched Go 1.26.10 toolchain ([#1](https://github.com/MN755/ssmctl/issues/1)) ([c40cb3f](https://github.com/MN755/ssmctl/commit/c40cb3fb5006c5d4441a54181699210eea84cdc4))
+* **security:** require patched Go 1.26.11 toolchain ([#3](https://github.com/MN755/ssmctl/issues/3)) ([5da4e0a](https://github.com/MN755/ssmctl/commit/5da4e0a5801ca3c87e0c3256c56f89aaa62bdb9e))
+
 ## [2.0.1](https://github.com/rhysmcneill/ssmctl/compare/v2.0.0...v2.0.1) (2026-05-18)
 
 
